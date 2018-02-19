@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySozlukWebGit", "MySozlukWebGit\MySozlukWebGit.csproj", "{FB269D6A-794E-483F-9504-99D35E06D04C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sozluk", "..\MyEksiSozluk\Sozluk\Sozluk.csproj", "{CA3EBB08-BA6E-417E-905F-C25B74F37A9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FB269D6A-794E-483F-9504-99D35E06D04C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB269D6A-794E-483F-9504-99D35E06D04C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB269D6A-794E-483F-9504-99D35E06D04C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA3EBB08-BA6E-417E-905F-C25B74F37A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA3EBB08-BA6E-417E-905F-C25B74F37A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA3EBB08-BA6E-417E-905F-C25B74F37A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA3EBB08-BA6E-417E-905F-C25B74F37A9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
